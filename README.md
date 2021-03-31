@@ -1,4 +1,4 @@
-# Booking_manager server script
+# Booking_manager database monitor script
 
  > This small piece of code does pretty much nothing else than print some information when new data was received in database...
 
@@ -14,7 +14,7 @@
 ```
 
 ## Usage:
- Basic usage is to move the app to the server and run it.
+ Configure the path properly and launch the script....
 
 
 ## Meta
