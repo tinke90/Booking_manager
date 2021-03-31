@@ -4,7 +4,7 @@ import time
 from datetime import datetime
 
 class Settings:
-    m_database = 'C:\\Users\\tinke\\Documents\\TimeReservationApp\\Database\\database.db'
+    m_database = 'C:\\Users\\<username>\\Documents\\TimeReservationApp\\Database\\database.db'
     m_settings = 'SELECT * FROM Settings'
     m_profile = 'SELECT * FROM Profile'
     m_reservation = 'SELECT * FROM Reservation'
